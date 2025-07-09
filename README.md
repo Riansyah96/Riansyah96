@@ -1,5 +1,5 @@
-# Hi 👋, I'm Arief Rachman Apriansyah!
-<h2 align="center">I am an undergraduate student from Bojonggede, Indonesia. I am a Nurul Fikri Integrated Undergraduate student in 2024 majoring in computer science, I like learning about Web Development, Network Engineer and Cyber ​​Security.</h2>
+# <span style="color: #FF6B6B">Hi</span> <span style="color: #4ECDC4">👋</span>, <span style="color: #45B7D1">I'm</span> <span style="background: linear-gradient(to right, #FF6B6B, #4ECDC4, #45B7D1); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline;">Arief Rachman Apriansyah</span>!
+<h2 align="left">I am an undergraduate student from Bojonggede, Indonesia. I am a Nurul Fikri Integrated Undergraduate student in 2024 majoring in computer science, I like learning about Web Development, Network Engineer and Cyber ​​Security.</h2>
 
 ### About Me :
 - 👀 I’m interested in Web Development, Network Engineer, and Cyber Security
@@ -22,6 +22,15 @@
 ![](https://github-readme-stats.vercel.app/api?username=Riansyah96&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Riansyah96&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riansyah96&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Riansyah96&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Riansyah96&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Riansyah96&icon=0&color=0)](https://visitcount.itsvg.in)
