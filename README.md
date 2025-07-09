@@ -28,19 +28,18 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# 🎮 Pixel Games on My Profile!
-
-### Classic Pac-Man
-<a href="https://github.com/yourusername">
-  <img src="https://i.imgur.com/WQZtP5e.gif" width="150" alt="Pac-Man">
-</a>
-
-### Terminal-style Game
-```[![Terminal](https://github-readme-terminal.vercel.app/api?username=yourusername)](https://github.com/yourusername)```
-
-### Pixel Art
-```diff
-+ .  .  🟡  .  .  .  👻  .  .
+<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Pac-Man -->
+  <circle cx="50" cy="50" r="40" fill="#FFFF00" stroke="#000000" stroke-width="2">
+    <animateTransform attributeName="transform" type="rotate" from="0 50 50" to="45 50 50" dur="0.5s" repeatCount="indefinite"/>
+  </circle>
+  <!-- Ghost -->
+  <rect x="120" y="30" width="60" height="40" rx="20" fill="#FF0000"/>
+  <circle cx="135" cy="25" r="10" fill="#FF0000"/>
+  <circle cx="165" cy="25" r="10" fill="#FF0000"/>
+  <circle cx="140" cy="20" r="3" fill="#FFFFFF"/>
+  <circle cx="160" cy="20" r="3" fill="#FFFFFF"/>
+</svg>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Riansyah96&icon=0&color=0)](https://visitcount.itsvg.in)
