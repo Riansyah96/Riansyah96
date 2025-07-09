@@ -1,7 +1,7 @@
 
 ## 🌐 Socials:
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-    <a href="https://facebook.com/Arief Rachman Apriansyah" target="_blank">
+    <a href="[https://www.facebook.com/ariefrachman.apriansyah]" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
     </a>
     <a href="https://instagram.com/_riansyaharief" target="_blank">
