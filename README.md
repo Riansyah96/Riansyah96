@@ -1,4 +1,4 @@
-#👋 Hi, I'm Arief Rachman Apriansyah!
+# Hi, I'm Arief Rachman Apriansyah👋!
 
 ### About Me :
 - 👀 I’m interested in Web Development, Network Engineer, and Cyber Security
