@@ -9,7 +9,7 @@
 
 # 🌐 Media Social
 
-[![Email](https://img.shields.io/badge/Email-emailsaya%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:arkalbojong@gmail.com)
+[![Email](https://img.shields.io/badge/Email-arkalbojong%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:arkalbojong@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/arief-rachman-apriansyah-9bb911343/)
 [![WhatsApp](https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp)](https://wa.me/62895383271892)
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/eduardopiresbr)](https://www.instagram.com/_riasyaharief_/profilecard)
