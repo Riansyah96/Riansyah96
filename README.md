@@ -28,6 +28,20 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+# 🎮 Pixel Games on My Profile!
+
+### Classic Pac-Man
+<a href="https://github.com/yourusername">
+  <img src="https://i.imgur.com/WQZtP5e.gif" width="150" alt="Pac-Man">
+</a>
+
+### Terminal-style Game
+```[![Terminal](https://github-readme-terminal.vercel.app/api?username=yourusername)](https://github.com/yourusername)```
+
+### Pixel Art
+```diff
++ .  .  🟡  .  .  .  👻  .  .
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Riansyah96&icon=0&color=0)](https://visitcount.itsvg.in)
 
