@@ -1,4 +1,4 @@
-# <span style="color: #4285F4">H</span><span style="color: #DB4437">i</span> <span style="color: #F4B400">👋</span>, <span style="color: #0F9D58">I</span>'m <span style="color: #4285F4">A</span><span style="color: #DB4437">r</span><span style="color: #F4B400">i</span><span style="color: #0F9D58">e</span><span style="color: #4285F4">f</span> <span style="color: #DB4437">R</span><span style="color: #F4B400">a</span><span style="color: #0F9D58">c</span><span style="color: #4285F4">h</span><span style="color: #DB4437">m</span><span style="color: #F4B400">a</span><span style="color: #0F9D58">n</span> <span style="color: #4285F4">A</span><span style="color: #DB4437">p</span><span style="color: #F4B400">r</span><span style="color: #0F9D58">i</span><span style="color: #4285F4">a</span><span style="color: #DB4437">n</span><span style="color: #F4B400">s</span><span style="color: #0F9D58">y</span><span style="color: #4285F4">a</span><span style="color: #DB4437">h</span>!
+# Hi 👋, I'm Arief Rachman Apriansyah!
 
 ### About Me :
 - 👀 I’m interested in Web Development, Network Engineer, and Cyber Security
@@ -27,9 +27,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Riansyah96&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Riansyah96&icon=0&color=0)](https://visitcount.itsvg.in)
