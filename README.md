@@ -12,7 +12,7 @@
 [![Email](https://img.shields.io/badge/Email-arkalbojong%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:arkalbojong@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arief_Rachman-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arief-rachman-apriansyah-9bb911343/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-62895383271892-25D366?logo=whatsapp&logoColor=white)](https://wa.me/62895383271892)
-[![Instagram](https://img.shields.io/badge/Instagram-_riasyaharief_-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_riasyaharief/)
+[![Instagram](https://img.shields.io/badge/Instagram-_riasyaharief_-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_riansyaharief/)
 [![Facebook](https://img.shields.io/badge/Facebook-Arief_Rachman-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/ariefrachman.apriansyah)
 
 # 💻 Tech Stack:
